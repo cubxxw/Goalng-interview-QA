@@ -1,7 +1,8 @@
 # Goalng-interview-QA
 
 ## 🧭 导航
-
+<!-- START doctoc -->
+<!-- END doctoc -->
 <br>
 🔥 这是一个Go语言的面试题收集仓库，希望未来能帮助到更多的Go语言从业者。
 
