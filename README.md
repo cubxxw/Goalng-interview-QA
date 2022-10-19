@@ -1,6 +1,11 @@
 # Goalng-interview-QA
 
 ## 🧭 导航
+
+<details><summary><b>💡 展开（查看readme目录📇）</b></summary>
+
+<br>
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -12,10 +17,14 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <br>
-🔥 这是一个Go语言的面试题收集仓库，希望未来能帮助到更多的Go语言从业者。
 
+</details>
 
-🚸 这个仓库使用的是actions自动部署和发布，如果你有Go语言面试题，或者刚刚面试，那么你可以 Issues 或者 Pull requests 我们机器人会自动抓取pr记录并且上传上来~
+</hr>
+
+🔥 请查看🔍[**快速指南(wike) — 仓库总结**](https://github.com/3293172751/Block_Chain/wiki)浏览仓库信息~，为了避免GitHub访问慢原因，我们提供了
+
+🔗[**中国大陆加速地址（Gitee平台）**](https://gitee.com/xxw3293172751/Block_Chain)镜像源，欢迎各位加入~ 
 
 <br>
 
@@ -43,7 +52,6 @@
 	&emsp;&emsp; | &emsp;&emsp;
 	<a href = "README.md">🆑中文CN</a>
 </div>
-
 <br>
 
 <details><summary><b>💡 关于（先看❗）</b></summary>
@@ -62,13 +70,16 @@
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 <a href="http://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40xiongxinwei-blue?style=social&logo=Octopus%20Deploy"></a>
 </p>
+</hr><br>
 
-</hr>
 
+ 🔥 这是一个Go语言的面试题收集仓库，希望未来能帮助到更多的Go语言从业者。
 
- ⚠️ 这是一个菜鸟的成长记录，如果你也想成为工程师，想从事后端的相关工作，或者想了解区块链的相关知识，那么它可以帮助到你😎 —>  <b>喜欢请给个⭐收藏~</b>
+🚸 这个仓库使用的是`actions`自动部署和发布，如果你有Go语言面试题，或者刚刚面试，那么你可以 `Issues` 或者 `Pull requests` 我们机器人会自动抓取pr记录并且上传上来~
 
- 🐧 喜欢Go语言的朋友欢迎加入*Go*语言自学群（<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZZnzhuU8uGmIKT5btI9uiCRpasUeD8e2&jump_from=webapi&authKey=x1/NMrS1KpK7N8Rvj4IfLcKYSWnjtElgU6a3ubin1JmtReyuoIlyE/ZJ0VRlK25n"><img border="0" src="./images/group.png" alt="GoLang/Go语言/自学交流" title="GoLang/Go语言/自学交流"></a>*QQ*群号：[141984758](https://qm.qq.com/cgi-bin/qm/qr?k=ZZnzhuU8uGmIKT5btI9uiCRpasUeD8e2&jump_from=webapi&authKey=x1/NMrS1KpK7N8Rvj4IfLcKYSWnjtElgU6a3ubin1JmtReyuoIlyE/ZJ0VRlK25n)）
+⚡ 如果它可以帮助到你😎 —>  <b>请给个⭐收藏~</b>
+
+ 🐧 喜欢Go语言的朋友欢迎加入*Go*语言自学群（备注`GitHub`）（<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZZnzhuU8uGmIKT5btI9uiCRpasUeD8e2&jump_from=webapi&authKey=x1/NMrS1KpK7N8Rvj4IfLcKYSWnjtElgU6a3ubin1JmtReyuoIlyE/ZJ0VRlK25n"><img border="0" src="./images/group.png" alt="GoLang/Go语言/自学交流" title="GoLang/Go语言/自学交流"></a>*QQ*群号：[141984758](https://qm.qq.com/cgi-bin/qm/qr?k=ZZnzhuU8uGmIKT5btI9uiCRpasUeD8e2&jump_from=webapi&authKey=x1/NMrS1KpK7N8Rvj4IfLcKYSWnjtElgU6a3ubin1JmtReyuoIlyE/ZJ0VRlK25n)）
 
  ⛓️ <b>区块链技术（也称之为分布式账本技术）</b>，是一种互联网数据库技术，其特点是<font color ="gree">去中心化，公开透明，信息不可篡改性，隐私匿名性🤑</font><a href="https://github.com/C-UB">CUB链学社</a>致力打造<b>区块链自学教育平台。</b>
 
@@ -85,6 +96,21 @@
 </hr>
 <br>
 
+## 🔥 Go语言的面试题
+
+
+
+
+
+
+
+<br><br><br><br><br><br>
+
+
+
+
+
+
 
 ## 💡链学者社区
 
@@ -96,11 +122,13 @@
 
 + [x] [菜鸟的成长手册](https://github.com/3293172751/cs-awesome-Block_Chain)
 
-<br><br><br><br><br><br>
 
 
+## 📚 CS系列
 
+CS 系列选自[🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-course)，内容涵盖 计算机操作系统、csapp系列、算法和数据结构、计算机网络、`linux`、`java`、`python`、`C/C++`、`vuepress`、`gitbook`、`nodejs`、`vuejs`、`halo`、`redis`、`hugo`、`nginx`、`nosql`、`mysql`、`JavaScript`、`git`、`markdown`、`web`前端等笔记，更多移步到[awesome系列CS仓库地址](https://github.com/3293172751/CS_COURSE)
 
++ [x] [🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-course)
 
 
 
@@ -116,6 +144,8 @@
 + [符合Google代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
 <font size = 2>如果你也想对本项目做出贡献，那么你可以先把该项目进行 [fork](https://github.com/3293172751/cs-awesome-Block_Chain/fork)或者 `git clone` 到本地（推荐先用 [fock](https://github.com/3293172751/cs-awesome-Block_Chain/fork)到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 `your-branch`，然后上传资料到 对应目录 下，图片信息可以上传到` /images`，然后更新 `README`。 </font>
+
+💡 关于Go语言的面试题，更多可以参考[🧷 地鼠文档](https://www.topgoer.cn/docs/gomianshiti/mianshiti)以及 [🧷 Go语言程序员面试笔试宝典](https://golang.design/go-questions/)
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/26892425/3293172751/Block_Chain/recent-activity/04864df8cf8f1f104b2b9453e0b47498_badge.svg)](https://repography.com)
 
